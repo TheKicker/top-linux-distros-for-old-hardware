@@ -3,7 +3,7 @@ Identifying the best Linux distro's for an upcoming project on an 'ancient' comp
 
 Work in progress.
 
-[Puppy Linux](##puppy-linux) | [AntiX](#antix) | [Q4OS](#q4os) | [Linux Lite](#linux-lite) | [MaBox](#mabox)
+[Puppy Linux](##puppy-linux) | [AntiX](#antix) | [Q4OS](#q4os) | [Linux Lite](#linux-lite) | [MaBox](#mabox) | [Linux Mint XFCE](#linux-mint-xfce) | [Top Ten (CodingBite)](#top-ten-according-to-codingbite-youtube)
 
 
 ## Puppy Linux
@@ -74,3 +74,59 @@ Best For: Users who want the power of Arch Linux with a lightweight and efficien
 
 https://maboxlinux.org/
 
+## Linux Mint XFCE
+A lightweight, user-friendly Linux distribution that focuses on providing a simple and efficient desktop experience. The XFCE desktop environment is known for its low resource usage, making it a perfect choice for older or low-spec hardware. Linux Mint itself is based on Ubuntu, offering excellent stability and a vast repository of software, but with the added benefit of a traditional desktop layout that’s familiar to many users. Linux Mint XFCE combines performance with ease of use, making it ideal for users who need a stable and efficient operating system on older computers.
+
+Linux Mint XFCE is unique because it offers a polished, full-featured desktop environment without sacrificing performance. It’s a perfect balance of usability and resource conservation.
+
+Built on: Ubuntu<br>
+Recommended RAM: 512MB<br>
+Desktop Environment: XFCE<br>
+Size: Around 1.8GB<br>
+Special Features: Lightweight, stable, pre-installed with a variety of software, easy-to-use interface, based on Ubuntu for compatibility and support<br>
+Best For: Users who want a well-rounded, user-friendly operating system that runs efficiently on older hardware without compromising on features or ease of use.<br>
+
+https://linuxmint.com/
+
+## Top Ten according to CodingBite (YouTube)
+
+Video link: https://www.youtube.com/watch?v=Sj8gHeV7mZc
+
+01. Bunsenlabs Linux: https://www.bunsenlabs.org <br>
+    - Recommended RAM: 1gb min / 2gb recommended<br>
+    - Recommended Storage: 20gb
+02. Bodhi Linux: https://www.bodhilinux.com <br>
+    - Recommended RAM: 768mb min / 1gb recommended<br>
+    - Recommended Storage: 10gb
+03. Trisquel Mini Linux: [https://trisquel.info](https://trisquel.info)  
+    - Recommended RAM: 256MB min / 512MB recommended  
+    - Recommended Storage: 2GB  
+
+04. Sparky Linux: [https://sparkylinux.org](https://sparkylinux.org)  
+    - Recommended RAM: 512MB min / 1GB recommended  
+    - Recommended Storage: 8GB  
+
+05. Lubuntu: [https://lubuntu.me](https://lubuntu.me)  
+    - Recommended RAM: 1GB min / 2GB recommended  
+    - Recommended Storage: 8GB  
+
+06. Peppermint: [https://peppermintos.com](https://peppermintos.com)  
+    - Recommended RAM: 512MB min / 1GB recommended  
+    - Recommended Storage: 4GB  
+
+07. Antix Linux: [https://antixlinux.com](https://antixlinux.com)  
+    - Recommended RAM: 256MB min / 512MB recommended  
+    - Recommended Storage: 2GB  
+
+08. Puppy Linux: [https://forum.puppylinux.com](https://forum.puppylinux.com)  
+    - Recommended RAM: 256MB min / 512MB recommended  
+    - Recommended Storage: 512MB (depends on version, can be run from a USB)  
+
+09. Slax: [https://www.slax.org](https://www.slax.org)  
+    - Recommended RAM: 256MB min / 512MB recommended  
+    - Recommended Storage: 1GB  
+
+10. Tiny Core: [http://tinycorelinux.net](http://tinycorelinux.net)  
+    - Recommended RAM: 46MB min / 128MB recommended  
+    - Recommended Storage: 11MB (base system) or 100MB (full version)
+ 
