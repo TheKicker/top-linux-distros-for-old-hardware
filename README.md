@@ -244,14 +244,5 @@ Best For: Older hardware needing a lightweight, reliable OS with a familiar Ubun
 
 https://lubuntu.me
 
-## Notes:
-Sorting: Sorted by Recommended RAM (46MB, 256MB, 512MB, 768MB, 1GB). For ties (e.g., multiple at 512MB), I maintained the original order from your file where possible.
 
-CodingBite List: I included all ten from your "Top Ten according to CodingBite" section (Bunsenlabs, Bodhi, Trisquel Mini, Sparky, Lubuntu, Peppermint, AntiX, Puppy, Slax, Tiny Core). Since your file only provided RAM and storage, I researched typical desktop environments and added plausible descriptions, special features, and sizes based on official sources and general knowledge.
-
-Consistency: All entries follow the exact structure of your Puppy Linux example, with "Built on:", "Recommended RAM:", etc.
-
-Duplication: AntiX and Puppy Linux appeared in both your main list and the CodingBite list. I used your main list’s detailed versions, adjusting RAM to the lower value (256MB) from CodingBite for consistency.
-
-Assumptions: Where CodingBite listed "min / recommended" RAM (e.g., 256MB min / 512MB recommended), I used the minimum as the primary "Recommended RAM" to align with your Puppy Linux example, noting the higher value in parentheses.
 
