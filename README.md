@@ -244,5 +244,39 @@ Best For: Older hardware needing a lightweight, reliable OS with a familiar Ubun
 
 https://lubuntu.me
 
+## Pop!_OS
+Pop!_OS is a modern, Ubuntu-based Linux distribution developed by System76, designed for developers, makers, and professionals. While not as ultra-lightweight as some options, its efficient design and customizable COSMIC desktop environment make it a viable choice for older hardware with slightly more resources. It offers robust out-of-the-box support for modern workflows, including GPU acceleration, making it a versatile option for reviving aging systems.
+Built on: Ubuntu
+
+Recommended RAM: 2GB (4GB recommended)
+
+Desktop Environment: COSMIC (based on GNOME)
+
+Size: Around 2.5GB
+
+Special Features: Full disk encryption, streamlined window and workspace management, built-in GPU support, power management profiles
+
+Best For: Older hardware with moderate resources, users needing a modern, developer-friendly OS with strong hardware compatibility.
+
+https://pop.system76.com/
+
+## Raspberry Pi OS
+Raspberry Pi OS is the official operating system for Raspberry Pi single-board computers, based on Debian and optimized for low-resource hardware. Formerly known as Raspbian, it uses a lightweight LXQt desktop environment to deliver a responsive experience on minimal systems. Designed for education and general use, it’s a great fit for reviving old PCs with its small footprint and extensive software support, though it shines best on ARM-based or similarly constrained hardware.
+Built on: Debian
+
+Recommended RAM: 512MB (1GB recommended)
+
+Desktop Environment: LXQt (Pixel desktop, a customized lightweight environment)
+
+Size: Around 1GB (Lite version) to 2GB (full desktop version)
+
+Special Features: Lightweight, optimized for low-power devices, includes educational tools like Scratch and Python, vast Debian package support
+
+Best For: Older hardware with modest resources, users wanting a lightweight, stable OS with a focus on education or experimentation.
+
+https://www.raspberrypi.com/software/
+
+
+
 
 
